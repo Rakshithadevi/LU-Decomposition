@@ -34,7 +34,7 @@ Step 5: End of the Program.
 
 ## Program:
 
-'''
+```
 
 # To print L and U matrix
 import numpy as np
